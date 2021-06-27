@@ -1,1 +1,11 @@
-Name, Enrollment_no., Age, Course, Marks Hindi, Marks Maths, Marks Science, Marks English , Address 
+Enrollment_no,name,English,Hindi,Math,Science,Age,Address
+1,John Deo,75,79,88,94,17,Chennai
+2,Max Ruin,85,78,88,88,18,Delhi
+3,Arnold,55,88,54,88,21,Mumbai
+4,Krish Star,60,79,75,88,17,Kolkata
+5,John Mike,60,81,18,88,22,Bangalore
+6,Alex John,55,86,65,54,35,Rajasthan
+7,John Rob,78,55,69,75,25,Nagpur
+8,Asruid,85,79,55,18,18,Pune
+9,Tes Qry,78,88,79,65,25,Bhopal
+10,Big John,55,90,78,69,22,Andhra Pradesh
